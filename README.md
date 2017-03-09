@@ -1,2 +1,3 @@
-# HelloWorld
-First Git Repository - Obligatory Hello World!
+# Doctor Dooom's Hello message
+
+I prefer earth tacos, personally ;)
